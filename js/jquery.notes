@@ -1,0 +1,7 @@
+http://jquery.com/download/
+
+* I will only be updating jQuery 1.10.x or 2.x versions.
+
+Remember, version 2.x removes support for IE 6, 7, and 8.
+
+Use the migrate plugin to restore features found in jQuery previous to 1.9!
