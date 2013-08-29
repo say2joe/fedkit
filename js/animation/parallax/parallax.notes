@@ -1,3 +1,5 @@
 There are many parallax scripts available. I've narrowed it down to these three with a plus (+) sign signifying my preferred one. My decision was based on flexibility, ease of implementation, and last modified date (by the author / contributors).
 
+Stellar.JS is also a contender. However, it is quite large and a bit heavy on the processor. But, it is popular. Unfortunately, the author hasn't had any contributions in at least 6 months, so I have not included it in this library due to its size.
+
 All of these scripts can be found on GitHub.
