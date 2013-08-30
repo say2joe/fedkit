@@ -1,9 +1,9 @@
 FED Kit
 =======
 
-The repo will serve as a library and jumpstart for front-end development.
+The FED Kit repo will serve as a library and jumpstart for front-end development (FED).
 
-The projects / files found in this repo should be "best-of-breed", but please  
+The projects / files found in this repo should be "best-of-breed", so please  
 make sure to note any additions to the repo which have not been fully vetted. 
 
 <br/>
