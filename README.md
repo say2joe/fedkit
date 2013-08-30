@@ -34,19 +34,20 @@ make sure to note any additions to the repo which have not been fully vetted.
 - [CSS Tricks](http://github.com/CSS-Tricks/)
 
 <br/>
-## Open-Source Software (OSS) ##
+
+## Miscellanea ##
+### Open-Source Software (OSS) 
 - [Adobe OpenSource](http://html.adobe.com/opensource/)
 
-<br/>
-## Useful Utilities ##
+### Useful Utilities 
 - [Desktop Utility](http://sweetpproductions.com/)
 - [Display Menu](https://itunes.apple.com/us/app/display-menu/id549083868?mt=12)
 - [SecondBar](https://www.macupdate.com/app/mac/33264/secondbar)
 
-<br/>
-#### My .bash_profile :: Aliases for the Terminal
-: The following script is a compilation of my various work environments.
-: To note: **ferment**, **ls**, **edit**
+### Shell Scripts
+#### .bash_profile
+> The following script is a compilation of my various work environments.  
+> To note: **ferment**, **ls**, **edit**
 
 ```bash
 alias hidden='defaults write com.apple.Finder AppleShowAllFiles'
