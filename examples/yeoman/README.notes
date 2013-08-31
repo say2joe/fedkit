@@ -1,0 +1,3 @@
+yo-angular and yo-webapp examples show all the files created via yeoman without any modification.
+
+* All of the default settings were used except not to use SASS (with Bootstrap).
