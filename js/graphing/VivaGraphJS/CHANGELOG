@@ -1,0 +1,15 @@
+v0.4.1
+  data: Jul 20, 2013
+	changes:
+	  - Layout algorithm now listens to changes from graph directly. Public API
+		  to add/remove nodes or links is dropped from layout algorithms.
+		- Added small performance test for node.js
+v0.4.0
+  date: April 7, 2013
+  changes:
+    - Migrated to grunt.js as a build system
+    - Dropped jslint support in favor of jshint.
+    - Cleaned up unused code:
+        * GEM/ACE layout files are removed from repository. If you need them for
+        the reference, please find them in the project's commits history.
+        * Runge Kutta integrator is dropped
