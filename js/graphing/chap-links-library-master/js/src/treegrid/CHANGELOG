@@ -1,0 +1,26 @@
+CHAP Links Library - TREEGRID
+http://almende.github.com/chap-links-library/
+
+
+2012-07-03, version 1.2.0
+
+- implemented method linkItems. Items can be linked to each other via drag and,
+  drop when this is implemented by the used DataConnector.
+
+
+2012-06-15, version 1.1.1
+
+- fixed a bug in calculating the height of the TreeGrid. The bug occurred
+  when option items.defaultHeight < items.minHeight, and when initially giving
+  a totalItems count larger then the actually available items.
+
+
+2012-06-04, version 1.1
+
+- Documentation has a new layout
+- Source code cleaned up
+
+
+2012-05-02, version 1.0
+
+- initial upload to github (formerly located at sourceforge)

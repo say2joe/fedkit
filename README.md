@@ -38,9 +38,11 @@ make sure to note any additions to the repo which have not been fully vetted.
 
 ## Miscellanea ##
 ### Open-Source Software (OSS) 
+- [CHAP - Collective Human-Agent Paradigm](http://chap.almende.com/)
 - [Adobe OpenSource](http://html.adobe.com/opensource/)
 
-### Useful Utilities 
+### Useful Utilities
+- [View (all) Plain Text Files in Finder](https://coderwall.com/p/dlithw)
 - [Desktop Utility](http://sweetpproductions.com/)
 - [Display Menu](https://itunes.apple.com/us/app/display-menu/id549083868?mt=12)
 - [SecondBar](https://www.macupdate.com/app/mac/33264/secondbar)
@@ -51,6 +53,7 @@ make sure to note any additions to the repo which have not been fully vetted.
 > To note: **ferment**, **ls**, **edit**
 
 ```bash
+defaults write com.apple.finder QLEnableTextSelection -bool true
 alias hidden='defaults write com.apple.Finder AppleShowAllFiles'
 
 #alias rename='for f in *; do if [["$f" =~ $* ]]; then mv "$f" "${BASH_REMATCH[1]}"; fi; done;'
