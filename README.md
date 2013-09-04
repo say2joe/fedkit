@@ -4,10 +4,9 @@ FED Kit
 The FED Kit repo will serve as a library and jumpstart for front-end development (FED).
 
 The projects / files found in this repo should be "best-of-breed", so please  
-make sure to note any additions to the repo which have not been fully vetted. 
+make sure to note any additions to the repo which have not been fully vetted.
 
 <br/>
-
 ## Must-Haves for Web Development ##
 - [Xcode /w Command Line Tools](http://developer.apple.com/xcode/) (Mac)
 - [Adobe Edge Inspect](http://html.adobe.com/edge/inspect/) (All)
@@ -46,6 +45,12 @@ make sure to note any additions to the repo which have not been fully vetted.
 - [Desktop Utility](http://sweetpproductions.com/)
 - [Display Menu](https://itunes.apple.com/us/app/display-menu/id549083868?mt=12)
 - [SecondBar](https://www.macupdate.com/app/mac/33264/secondbar)
+
+### Newsletters
+- [JavaScript Weekly](http://javascriptweekly.com/)
+- [HTML5 Weekly](http://html5weekly.com/)
+- [CSS-Tricks](http://css-tricks.com/subscription-options/)
+- [Smashing](http://www.smashingmagazine.com/the-smashing-newsletter/)
 
 ### Shell Scripts
 #### .bash_profile
