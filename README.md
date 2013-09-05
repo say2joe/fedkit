@@ -29,6 +29,7 @@ make sure to note any additions to the repo which have not been fully vetted.
     (Mac OS X) username$ npm install -g yo  
     (Windows) http://nodejs.org/download/
 
+<br/>
 ## Web Dev Resources ##
 ### General: Plugins and Tips & Tricks
 - [jQuery Plugins](http://plugins.jquery.com/)
