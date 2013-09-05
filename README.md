@@ -33,9 +33,11 @@ make sure to note any additions to the repo which have not been fully vetted.
 ### General: Plugins and Tips & Tricks
 - [jQuery Plugins](http://plugins.jquery.com/)
 - [CSS Tricks](http://github.com/CSS-Tricks/)
+
 ### Timelines and Graphing
 - [TimelineJS](http://timeline.verite.co/)
 - [Timeglider](http://timeglider.com/widget/kitchen_sink.html)
+
 ### Table data (inlcuding RWD)
 - [DataTables](http://www.datatables.net/)
 - [FooTable](https://github.com/bradvin/FooTable)
