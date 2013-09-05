@@ -32,12 +32,15 @@ make sure to note any additions to the repo which have not been fully vetted.
 ## Web Dev Resources ##
 - [jQuery Plugins](http://plugins.jquery.com/)
 - [CSS Tricks](http://github.com/CSS-Tricks/)
+- [DataTables](http://www.datatables.net/)
+- [FooTable](https://github.com/bradvin/FooTable)
 
 <br/>
 
 ## Miscellanea ##
-### Best Practices and Helpful Info
+### Best Practices and Debugging
 - [Chrome Dev Tools](https://developers.google.com/chrome-developer-tools/docs/authoring-development-workflow)
+- [Visual Event 2](http://www.sprymedia.co.uk/article/Visual+Event+2)
 
 ### Open-Source Software (OSS) 
 - [CHAP - Collective Human-Agent Paradigm](http://chap.almende.com/)
@@ -65,27 +68,32 @@ make sure to note any additions to the repo which have not been fully vetted.
 defaults write com.apple.finder QLEnableTextSelection -bool true
 alias hidden='defaults write com.apple.Finder AppleShowAllFiles'
 
-#alias rename='for f in *; do if [["$f" =~ $* ]]; then mv "$f" "${BASH_REMATCH[1]}"; fi; done;'
+#alias toyota='cd /Volumes/Dev/web/toyota/pswebp41/cache/default/main/Toyota/Toyota2007/WORKAREA/johnjoe'
+alias rename='for f in *; do if [["$f" =~ $* ]]; then mv "$f" "${BASH_REMATCH[1]}"; fi; done;'
 #alias ritup='cd /Volumes/Dev/web/toyota/svn/rit/ToyotaSite2012UI; svn cleanup; svn up;'
+alias pup='pip freeze --local | grep -v '^\-e' | cut -d = -f 1  | xargs pip install -U'
 alias ferment='brew up && brew upgrade `brew outdated` && gem up && npm up'
 #alias jsdoc='/Volumes/Dev/jsdoc/jsdoc -l -d ./jsdocs'
-alias apache='cd /Applications/XAMPP'
+#alias apache='cd /Applications/MAMP/conf/apache'
+#alias software='cd /Volumes/Dev/Software'
+alias sudoedit='sudo open -a TextEdit.app'
 alias reload='source ~/.bash_profile'
 alias edit='open -a TextEdit.app'
+#alias web='cd /Volumes/Dev/web'
 alias ls='ls -alhFG'
 alias home='cd ~'
 
-alias svn='/opt/local/bin/svn'
 alias IP='ipconfig getifaddr en0'
-alias js='/Volumes/Dev/GitHub/v8/out/native/shell'
+alias svn='/opt/local/bin/svn'
+#alias js='/Volumes/Dev/GitHub/v8/out/native/shell'
 #alias watchrit='while true; do ritup echo "SVN Update for RIT at $(date)."; sleep 600; done'
 
-export PATH=/usr/local/bin:/usr/local/sbin:/android-sdk-macosx/platform-tools:/usr/local/share/npm/bin:$PATH
-export JAVA_HOME=/System/Library/Frameworks/JavaVM.framework/Versions/CurrentJDK/Home
+export PATH=/usr/local/bin:$PATH
+#export JAVA_HOME=/System/Library/Frameworks/JavaVM.framework/Versions/CurrentJDK/Home
 export EDITOR=/Applications/TextEdit.app/Contents/MacOS/TextEdit
-export JBOSS_HOME=/jboss-5.1.0.GA
+#export JBOSS_HOME=/jboss-5.1.0.GA
 
-export SLPADMIN=/Volumes/Dev/web/toyota/svn/slp/SLPAdmin/trunk
+#export SLPADMIN=/Volumes/Dev/web/toyota/svn/slp/SLPAdmin/trunk
 function slp () {
   local __pwd=`pwd`
   local __pid=`pid get SLPPID`
@@ -116,14 +124,15 @@ function slp () {
   echo "SLP v2.0 Admin script finished."
 }
 function pid () {
-	if [ "$1" = "set" ]; then
-		launchctl setenv $2 $3
-	elif [ "$1" = "unset" ]; then
-		launchctl unsetenv $2
-	elif [ "$1" = "get" ]; then
-		eval "launchctl getenv $2"
-	fi
+  if [ "$1" = "set" ]; then
+    launchctl setenv $2 $3
+  elif [ "$1" = "unset" ]; then
+    launchctl unsetenv $2
+  elif [ "$1" = "get" ]; then
+    eval "launchctl getenv $2"
+  fi
 }
 
-[[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm" # Load RVM into a shell session *as a function*
+#[[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm" # Load RVM into a shell session *as a function*
+
 ```
