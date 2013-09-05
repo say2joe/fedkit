@@ -36,6 +36,9 @@ make sure to note any additions to the repo which have not been fully vetted.
 <br/>
 
 ## Miscellanea ##
+### Best Practices and Helpful Info
+- [Chrome Dev Tools](https://developers.google.com/chrome-developer-tools/docs/authoring-development-workflow)
+
 ### Open-Source Software (OSS) 
 - [CHAP - Collective Human-Agent Paradigm](http://chap.almende.com/)
 - [Adobe OpenSource](http://html.adobe.com/opensource/)
@@ -51,6 +54,7 @@ make sure to note any additions to the repo which have not been fully vetted.
 - [HTML5 Weekly](http://html5weekly.com/)
 - [CSS-Tricks](http://css-tricks.com/subscription-options/)
 - [Smashing](http://www.smashingmagazine.com/the-smashing-newsletter/)
+
 
 ### Shell Scripts
 #### .bash_profile
