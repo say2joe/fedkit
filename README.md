@@ -60,6 +60,8 @@ make sure to note any additions to the repo which have not been fully vetted.
 - [SecondBar](https://www.macupdate.com/app/mac/33264/secondbar)
 
 ### Newsletters
+- [How-To Geek Daily](http://www.howtogeek.com/)
+- [Web Design Weekly](http://web-design-weekly.com/)
 - [JavaScript Weekly](http://javascriptweekly.com/)
 - [HTML5 Weekly](http://html5weekly.com/)
 - [CSS-Tricks](http://css-tricks.com/subscription-options/)
