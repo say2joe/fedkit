@@ -43,6 +43,9 @@ make sure to note any additions to the repo which have not been fully vetted.
 - [TimelineJS](http://timeline.verite.co/)
 - [Timeglider](http://timeglider.com/widget/kitchen_sink.html)
 
+### Responsive Web Design
+- [Media Queries](http://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
+
 <br/>
 
 ## Miscellanea ##
