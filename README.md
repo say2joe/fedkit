@@ -46,6 +46,9 @@ make sure to note any additions to the repo which have not been fully vetted.
 ### Responsive Web Design
 - [Media Queries](http://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
 
+### JS Debugging
+- [Object Debugger](https://gist.github.com/say2joe/6707788)
+
 <br/>
 
 ## Miscellanea ##
