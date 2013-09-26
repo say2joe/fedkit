@@ -31,61 +31,61 @@ make sure to note any additions to the repo which have not been fully vetted.
 
 <br/>
 ## Web Dev Resources ##
-### General: Plugins and Tips & Tricks
+#### General: Plugins and Tips & Tricks
 - [jQuery Plugins](http://plugins.jquery.com/)
 - [jQuery Tools](http://jquerytools.org/)
 - [CSS Tricks](http://github.com/CSS-Tricks/)
 
-### UI / User Experience
+#### UI / User Experience
 - [Improved UX (forms)](http://blog.teamtreehouse.com/best-free-jquery-form-plugins-to-improve-user-experience)
 - [jQuery UI](http://jqueryui.com/)
 
-### Forms: jQuery Plugins, etc.
+#### Forms: jQuery Plugins, etc.
 - [Improved UX (forms)](http://blog.teamtreehouse.com/best-free-jquery-form-plugins-to-improve-user-experience)
 - [jQuery Validate](http://jqueryvalidation.org/)
 - [h5Validate](http://ericleads.com/h5validate/)
 
-### Table data (inlcuding RWD)
+#### Table data (inlcuding RWD)
 - [DataTables](http://www.datatables.net/)
 - [FooTable](https://github.com/bradvin/FooTable)
 
-### Timelines and Graphing
+#### Timelines and Graphing
 - [TimelineJS](http://timeline.verite.co/)
 - [Timeglider](http://timeglider.com/widget/kitchen_sink.html)
 
-### Responsive Web Design
+#### Responsive Web Design
 - [Media Queries](http://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
 - [Menus / Nav](http://www.jqueryfeed.net/go/140/menufication-responsive-fly-out-menu)
 
-### JS Debugging
+#### JS Debugging
 - [Object Debugger](https://gist.github.com/say2joe/6707788)
 
 <br/>
 
 ## Miscellanea ##
-### Best Practices and Debugging
+#### Best Practices and Debugging
 - [Chrome Dev Tools](https://developers.google.com/chrome-developer-tools/docs/authoring-development-workflow)
 - [Visual Event 2](http://www.sprymedia.co.uk/article/Visual+Event+2)
 
-### Open-Source Software (OSS) 
+#### Open-Source Software (OSS) 
 - [CHAP - Collective Human-Agent Paradigm](http://chap.almende.com/)
 - [Adobe OpenSource](http://html.adobe.com/opensource/)
 
-### Useful Utilities
+#### Useful Utilities
 - [View (all) Plain Text Files in Finder](https://coderwall.com/p/dlithw)
 - [Desktop Utility](http://sweetpproductions.com/)
 - [Display Menu](https://itunes.apple.com/us/app/display-menu/id549083868?mt=12)
 - [SecondBar](https://www.macupdate.com/app/mac/33264/secondbar)
 
-### Multimedia
+#### Multimedia
 - [YouTube Audio Library](http://www.youtube.com/audiolibrary)
 
-### Fonts/Text
+#### Fonts/Text
 - [Google Web Fonts](http://www.google.com/fonts)
 - [Adobe Edge Fonts](https://edgewebfonts.adobe.com/fonts)
 - [Font Squirrel](http://www.fontsquirrel.com/)
 
-### Newsletters
+#### Newsletters
 - [How-To Geek Daily](http://www.howtogeek.com/)
 - [Web Design Weekly](http://web-design-weekly.com/)
 - [JavaScript Weekly](http://javascriptweekly.com/)
