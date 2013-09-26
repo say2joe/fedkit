@@ -33,11 +33,16 @@ make sure to note any additions to the repo which have not been fully vetted.
 ## Web Dev Resources ##
 ### General: Plugins and Tips & Tricks
 - [jQuery Plugins](http://plugins.jquery.com/)
+- [jQuery Tools](http://jquerytools.org/)
 - [CSS Tricks](http://github.com/CSS-Tricks/)
 
+### UI / User Experience
+- [Improved UX (forms)](http://blog.teamtreehouse.com/best-free-jquery-form-plugins-to-improve-user-experience)
+- [jQuery UI](http://jqueryui.com/)
+
 ### Forms: jQuery Plugins, etc.
-- [Improved UX](http://blog.teamtreehouse.com/best-free-jquery-form-plugins-to-improve-user-experience)
-- [Validation](http://plugins.jquery.com/tag/validate/)
+- [Improved UX (forms)](http://blog.teamtreehouse.com/best-free-jquery-form-plugins-to-improve-user-experience)
+- [jQuery Validate](http://jqueryvalidation.org/)
 - [h5Validate](http://ericleads.com/h5validate/)
 
 ### Table data (inlcuding RWD)
