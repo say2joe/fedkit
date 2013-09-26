@@ -35,6 +35,11 @@ make sure to note any additions to the repo which have not been fully vetted.
 - [jQuery Plugins](http://plugins.jquery.com/)
 - [CSS Tricks](http://github.com/CSS-Tricks/)
 
+### Forms: jQuery Plugins, etc.
+- [Improved UX](http://blog.teamtreehouse.com/best-free-jquery-form-plugins-to-improve-user-experience)
+- [Validation](http://plugins.jquery.com/tag/validate/)
+- [h5Validate](http://ericleads.com/h5validate/)
+
 ### Table data (inlcuding RWD)
 - [DataTables](http://www.datatables.net/)
 - [FooTable](https://github.com/bradvin/FooTable)
@@ -45,6 +50,7 @@ make sure to note any additions to the repo which have not been fully vetted.
 
 ### Responsive Web Design
 - [Media Queries](http://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
+- [Menus / Nav](http://www.jqueryfeed.net/go/140/menufication-responsive-fly-out-menu)
 
 ### JS Debugging
 - [Object Debugger](https://gist.github.com/say2joe/6707788)
@@ -65,6 +71,14 @@ make sure to note any additions to the repo which have not been fully vetted.
 - [Desktop Utility](http://sweetpproductions.com/)
 - [Display Menu](https://itunes.apple.com/us/app/display-menu/id549083868?mt=12)
 - [SecondBar](https://www.macupdate.com/app/mac/33264/secondbar)
+
+### Multimedia
+- [YouTube Audio Library](http://www.youtube.com/audiolibrary)
+
+### Fonts/Text
+- [Google Web Fonts](http://www.google.com/fonts)
+- [Adobe Edge Fonts](https://edgewebfonts.adobe.com/fonts)
+- [Font Squirrel](http://www.fontsquirrel.com/)
 
 ### Newsletters
 - [How-To Geek Daily](http://www.howtogeek.com/)
