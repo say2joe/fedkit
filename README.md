@@ -60,6 +60,11 @@ make sure to note any additions to the repo which have not been fully vetted.
 #### JS Debugging
 - [Object Debugger](https://gist.github.com/say2joe/6707788)
 
+#### Fonts/Text
+- [Google Web Fonts](http://www.google.com/fonts)
+- [Adobe Edge Fonts](https://edgewebfonts.adobe.com/fonts)
+- [Font Squirrel](http://www.fontsquirrel.com/)
+
 <br/>
 
 ## Miscellanea ##
@@ -80,11 +85,6 @@ make sure to note any additions to the repo which have not been fully vetted.
 #### Multimedia
 - [YouTube Audio Library](http://www.youtube.com/audiolibrary)
 
-#### Fonts/Text
-- [Google Web Fonts](http://www.google.com/fonts)
-- [Adobe Edge Fonts](https://edgewebfonts.adobe.com/fonts)
-- [Font Squirrel](http://www.fontsquirrel.com/)
-
 #### Newsletters
 - [How-To Geek Daily](http://www.howtogeek.com/)
 - [Web Design Weekly](http://web-design-weekly.com/)
@@ -93,6 +93,7 @@ make sure to note any additions to the repo which have not been fully vetted.
 - [CSS-Tricks](http://css-tricks.com/subscription-options/)
 - [Smashing](http://www.smashingmagazine.com/the-smashing-newsletter/)
 
+<br/>
 
 ### Shell Scripts
 #### .bash_profile
