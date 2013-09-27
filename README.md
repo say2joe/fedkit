@@ -40,6 +40,7 @@ make sure to note any additions to the repo which have not been fully vetted.
 
 #### UI / User Experience
 - [Improved UX (forms)](http://blog.teamtreehouse.com/best-free-jquery-form-plugins-to-improve-user-experience)
+- [CSS Hacks & Tricks](https://gist.github.com/say2joe/6734483)
 - [jQuery UI](http://jqueryui.com/)
 
 #### Forms: jQuery Plugins, etc.
@@ -66,6 +67,9 @@ make sure to note any additions to the repo which have not been fully vetted.
 - [Google Web Fonts](http://www.google.com/fonts)
 - [Adobe Edge Fonts](https://edgewebfonts.adobe.com/fonts)
 - [Font Squirrel](http://www.fontsquirrel.com/)
+
+#### Snippets
+- [Joe's Gists](http://gist.github.com/say2joe)
 
 <br/>
 
