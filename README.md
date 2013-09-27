@@ -32,9 +32,11 @@ make sure to note any additions to the repo which have not been fully vetted.
 <br/>
 ## Web Dev Resources ##
 #### General: Plugins and Tips & Tricks
+- [WebPlatform.org](http://platform.html5.org/)
 - [jQuery Plugins](http://plugins.jquery.com/)
 - [jQuery Tools](http://jquerytools.org/)
 - [CSS Tricks](http://github.com/CSS-Tricks/)
+- [Can I Use](http://caniuse.com/)
 
 #### UI / User Experience
 - [Improved UX (forms)](http://blog.teamtreehouse.com/best-free-jquery-form-plugins-to-improve-user-experience)
@@ -92,6 +94,25 @@ make sure to note any additions to the repo which have not been fully vetted.
 - [HTML5 Weekly](http://html5weekly.com/)
 - [CSS-Tricks](http://css-tricks.com/subscription-options/)
 - [Smashing](http://www.smashingmagazine.com/the-smashing-newsletter/)
+
+<br/>
+
+## Bookmarklets
+#### Debugging
+- Visual Event
+```
+javascript:(function()%20%7Bvar%20protocol%20%3D%20window.location.protocol%20%3D%3D%3D%20%27file:%27%20%3F%27http:%27%20:%20%27%27%3Bvar%20url%20%3D%20protocol%2B%27//www.sprymedia.co.uk/VisualEvent/VisualEvent_Loader.js%27%3Bif(%20typeof%20VisualEvent!%3D%27undefined%27%20)%20%7Bif%20(%20VisualEvent.instance%20!%3D%3D%20null%20)%20%7BVisualEvent.close()%3B%7Delse%20%7Bnew%20VisualEvent()%3B%7D%7Delse%20%7Bvar%20n%3Ddocument.createElement(%27script%27)%3Bn.setAttribute(%27language%27,%27JavaScript%27)%3Bn.setAttribute(%27src%27,url%2B%27%3Frand%3D%27%2Bnew%20Date().getTime())%3Bdocument.body.appendChild(n)%3B%7D%7D)()%3B
+```
+
+#### Utilities
+- Dual View:
+```
+javascript:A14nH=location.href;L3f7=prompt('Choose%20File%201',A14nH);R1Gh7=prompt('Choose%20File%202',L3f7);if(L3f7&&R1Gh7){Fr4Q='<frameset%20cols=\'*,*\'>\n<frame%20src=\''+L3f7+'\'/>';Fr4Q+='<frame%20src=\''+R1Gh7+'\'/>\n';Fr4Q+='</frameset>';with(document){write(Fr4Q);void(close())}}else{void(null)}
+```
+- Curiate This
+```
+javascript:void((function()%7Bvar%20e%3Ddocument.createElement(%27script%27)%3Be.setAttribute(%27src%27,%27//curiator.com/static/js/bookmarklet.js%3Fr%3D%27%20%2B%20(new%20Date()).getTime())%3Be.setAttribute(%27type%27,%27text/javascript%27)%3Be.setAttribute(%27charset%27,%27UTF-8%27)%3Bdocument.body.appendChild(e)%7D)())%3B
+```
 
 <br/>
 
