@@ -114,5 +114,5 @@ make sure to note any additions to the repo which have not been fully vetted.
 
 <br/>
 
-#### Shell Scripts
+### Shell Scripts
 - [Joe's .bash_profile](https://gist.github.com/say2joe/ae87bea4ad39b19fe40f)
