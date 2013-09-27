@@ -97,7 +97,7 @@ make sure to note any additions to the repo which have not been fully vetted.
 
 <br/>
 
-## Bookmarklets
+## Bookmarklets ##
 #### Debugging
 - Visual Event
 ```
