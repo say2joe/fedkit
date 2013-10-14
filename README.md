@@ -3,7 +3,7 @@ FED Kit
 
 The FED Kit repo will serve as a library and jumpstart for front-end development (FED).
 
-The projects / files found in this repo should be "best-of-breed", so please  
+The projects / files found in this repo should be "best-of-breed", so please
 make sure to note any additions to the repo which have not been fully vetted.
 
 <br/>
@@ -25,8 +25,8 @@ make sure to note any additions to the repo which have not been fully vetted.
 ## Web App Scaffolding ##
 ### [Yeoman](https://github.com/yeoman/yeoman/wiki/Getting-Started)
 > Includes (optionally): HTML5 Boilerplate, jQuery, Bootstrap, Modernizr, Angular, etc. /w Bower and Grunt.
-#### Install [nodejs/npm](https://github.com/joyent/node/wiki/Installing-Node.js-via-package-manager#osx) using [Homebrew](http://brew.sh/) or [MSI](http://nodejs.org/download/)  
-    (Mac OS X) username$ npm install -g yo  
+#### Install [nodejs/npm](https://github.com/joyent/node/wiki/Installing-Node.js-via-package-manager#osx) using [Homebrew](http://brew.sh/) or [MSI](http://nodejs.org/download/)
+    (Mac OS X) username$ npm install -g yo
     (Windows) http://nodejs.org/download/
 
 <br/>
@@ -74,11 +74,14 @@ make sure to note any additions to the repo which have not been fully vetted.
 <br/>
 
 ## Miscellanea ##
+#### Outlook for Mac (Scripts)
+- [Favorite Scripts](http://www.office.mvps.org/script/fav_scripts.html)
+
 #### Best Practices and Debugging
 - [Chrome Dev Tools](https://developers.google.com/chrome-developer-tools/docs/authoring-development-workflow)
 - [Visual Event 2](http://www.sprymedia.co.uk/article/Visual+Event+2)
 
-#### Open-Source Software (OSS) 
+#### Open-Source Software (OSS)
 - [CHAP - Collective Human-Agent Paradigm](http://chap.almende.com/)
 - [Adobe OpenSource](http://html.adobe.com/opensource/)
 
