@@ -38,6 +38,9 @@ make sure to note any additions to the repo which have not been fully vetted.
 - [CSS Tricks](http://github.com/CSS-Tricks/)
 - [Can I Use](http://caniuse.com/)
 
+#### Scrollable Content
+- [CSS-Tricks on Overflow (and custom scrollbars)](http://css-tricks.com/almanac/properties/o/overflow/#post-14081)
+
 #### UI / User Experience
 - [Improved UX (forms)](http://blog.teamtreehouse.com/best-free-jquery-form-plugins-to-improve-user-experience)
 - [CSS Hacks & Tricks](https://gist.github.com/say2joe/6734483)
