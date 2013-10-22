@@ -102,6 +102,7 @@ make sure to note any additions to the repo which have not been fully vetted.
 - [Web Design Weekly](http://web-design-weekly.com/)
 - [JavaScript Weekly](http://javascriptweekly.com/)
 - [HTML5 Weekly](http://html5weekly.com/)
+- [Angular.JS](http://www.ng-newsletter.com/)
 - [NODE Weekly](http://nodeweekly.com/)
 - [CSS-Tricks](http://css-tricks.com/subscription-options/)
 - [Smashing](http://www.smashingmagazine.com/the-smashing-newsletter/)
