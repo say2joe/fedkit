@@ -28,6 +28,8 @@ make sure to note any additions to the repo which have not been fully vetted.
 #### Install [nodejs/npm](https://github.com/joyent/node/wiki/Installing-Node.js-via-package-manager#osx) using [Homebrew](http://brew.sh/) or [MSI](http://nodejs.org/download/)
     (Mac OS X) username$ npm install -g yo
     (Windows) http://nodejs.org/download/
+### [Yeogurt](https://github.com/larsonjj/yeogurt)
+> Alternative to Yeoman, but inspired / based on Yeoman project.
 
 <br/>
 ## Web Dev Resources ##
